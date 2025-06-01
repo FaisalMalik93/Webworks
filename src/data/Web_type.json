@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Business Website Development",
+      "slug": "business-website-development",
+      "description": "Get a modern, fast, and mobile-friendly website tailored to your company’s needs.",
+      "price": 199.99,
+      "instructor": "Faisal Malik",
+      "isFeatured": true,
+      "image": "/images/card1.png"
+    },
+    {
+      "id": 2,
+      "title": "Portfolio Website Design",
+      "slug": "portfolio-website-design",
+      "description": "Stand out online with a personal portfolio website built to impress and attract clients.",
+      "price": 149.99,
+      "instructor": "Faisal Malik",
+      "isFeatured": false,
+      "image": "/images/card2.png"
+    },
+    {
+      "id": 3,
+      "title": "E-Commerce Website Setup",
+      "slug": "ecommerce-website-setup",
+      "description": "Launch your online store with secure payment integration, product pages, and cart features.",
+      "price": 299.99,
+      "instructor": "Faisal Malik",
+      "isFeatured": true,
+      "image": "/images/card3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Landing Page Design",
+      "slug": "landing-page-design",
+      "description": "High-converting landing pages designed for marketing campaigns and lead generation.",
+      "price": 99.99,
+      "instructor": "Faisal Malik",
+      "isFeatured": false,
+      "image": "/images/card4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Website Redesign Service",
+      "slug": "website-redesign-service",
+      "description": "Upgrade your outdated site with a fresh, modern, and responsive design.",
+      "price": 179.99,
+      "instructor": "Faisal Malik",
+      "isFeatured": false,
+      "image": "/images/card5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Website Maintenance & Support",
+      "slug": "website-maintenance-support",
+      "description": "Ongoing website updates, backups, and technical support to keep your site running smoothly.",
+      "price": 89.99,
+      "instructor": "Faisal Malik",
+      "isFeatured": true,
+      "image": "/images/card6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Custom Web App Development",
+      "slug": "custom-web-app-development",
+      "description": "Get a powerful web application tailored to your business processes and needs.",
+      "price": 399.99,
+      "instructor": "Faisal Malik",
+      "isFeatured": false,
+      "image": "/images/card7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "SEO & Performance Optimization",
+      "slug": "seo-performance-optimization",
+      "description": "Improve your site’s visibility on search engines and boost performance speed.",
+      "price": 129.99,
+      "instructor": "Faisal Malik",
+      "isFeatured": true,
+      "image": "/images/card8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Logo & Branding Package",
+      "slug": "logo-branding-package",
+      "description": "Complete branding services including logo design, colors, and identity assets.",
+      "price": 109.99,
+      "instructor": "Faisal Malik",
+      "isFeatured": false,
+      "image": "/images/card9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "One-Page Website Creation",
+      "slug": "one-page-website-creation",
+      "description": "Simple, clean one-page websites perfect for startups, events, or personal use.",
+      "price": 89.99,
+      "instructor": "Faisal Malik",
+      "isFeatured": true,
+      "image": "/images/card10.jpg"
+    }
+  ]
+}
